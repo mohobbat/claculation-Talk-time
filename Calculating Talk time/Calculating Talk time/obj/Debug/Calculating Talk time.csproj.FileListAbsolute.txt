@@ -1,0 +1,9 @@
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\bin\Debug\Calculating Talk time.exe.config
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating Talk time.csprojResolveAssemblyReference.cache
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating_Talk_time.Form1.resources
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating_Talk_time.Properties.Resources.resources
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating Talk time.csproj.GenerateResource.Cache
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\bin\Debug\Calculating Talk time.exe
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\bin\Debug\Calculating Talk time.pdb
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating Talk time.exe
+C:\Users\raihan\Documents\Visual Studio 2013\Projects\New folder\Calculating Talk time\Calculating Talk time\obj\Debug\Calculating Talk time.pdb
